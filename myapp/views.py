@@ -28,7 +28,7 @@ class RegisterView(generics.GenericAPIView):
         serializer.is_valid(raise_exception=True)
         serializer.save()
         return Response(serializer.data)
-        print("hello world how are you")
+        
     
 class LoginView(generics.GenericAPIView):
     
