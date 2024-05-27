@@ -33,7 +33,7 @@ rest-framework-simplejwt==0.0.2
 shortuuid==1.0.11
 six==1.16.0
 soupsieve==2.4.1
-sqlparse==0.4.4
+sqlparse==0.5.0
 timedelta==2020.12.3
 tzdata==2023.3
 urllib3==1.26.16
